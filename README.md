@@ -1,1 +1,4 @@
-# Short
+# Shortit
+
+Practic Next.js
+
